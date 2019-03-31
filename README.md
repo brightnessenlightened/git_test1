@@ -1,0 +1,1 @@
+This is Brightness' first git project!
